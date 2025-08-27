@@ -33,5 +33,3 @@ public class EcuacionLineal {
         return (a * f - e * c) / (a * d - b * c);
     }
 }
-
-// Clase de prueba
